@@ -19,7 +19,7 @@ wfVs0vWP
 ```
 用邀请码注册，可免手续费购买体验1元2G流量拥有无限时间的流量，适合不常用党使用。</br>
 （此套餐无法续费）</br>
-![imgage](https://github.com/jdnei/mojie/blob/main/mojie/QQ20250921-185809.png?raw=true)  
+![imgage](https://github.com/nayavikitha-hub/mojie/blob/main/mojie/QQ20250921-185809.png?raw=true)  
 
 ## 优惠码/折扣码
 `9.4折，截止日期：未知`
@@ -46,17 +46,17 @@ wfVs0vWP
 
 ## 📊 性能实测与分析  
 #### 1.1 联通晚高峰测速表现  
-![image](https://github.com/jdnei/mojie/blob/main/mojie/duaey238st38lt.jpg?raw=ture)</br>
+![image](https://github.com/nayavikitha-hub/mojie/blob/main/mojie/duaey238st38lt.jpg?raw=ture)</br>
 #### 1.2 电信晚高峰测速表现  
-![image](https://github.com/jdnei/mojie/blob/main/mojie/72ydtkdiqo98dx.jpg?raw=ture)</br>
+![image](https://github.com/nayavikitha-hub/mojie/blob/main/mojie/72ydtkdiqo98dx.jpg?raw=ture)</br>
 #### 1.3 移动晚高峰测速表现  
-![image](https://github.com/jdnei/mojie/blob/main/mojie/62ftsk3od9sj21yd.jpg?raw=ture)</br>
+![image](https://github.com/nayavikitha-hub/mojie/blob/main/mojie/62ftsk3od9sj21yd.jpg?raw=ture)</br>
 #### 2.1 流媒体解锁报告  
-![image](https://github.com/jdnei/mojie/blob/main/mojie/823834sd8sjuag23liu.png?raw=ture)</br>
+![image](https://github.com/nayavikitha-hub/mojie/blob/main/mojie/823834sd8sjuag23liu.png?raw=ture)</br>
 #### 2.2 AI解锁报告  
-![image](https://github.com/jdnei/mojie/blob/main/mojie/103hduey37ai.jpg?raw=ture)</br>
+![image](https://github.com/nayavikitha-hub/mojie/blob/main/mojie/103hduey37ai.jpg?raw=ture)</br>
 #### 3. 落地入口分析  
-![image](https://github.com/jdnei/mojie/blob/main/mojie/hdu23dsksfdgi5analyze.png?raw=ture)</br>
+![image](https://github.com/nayavikitha-hub/mojie/blob/main/mojie/hdu23dsksfdgi5analyze.png?raw=ture)</br>
 #### 4. 服务器状态整理
 <details>
 <summary><strong>点击展开服务器列表</strong></summary> 
